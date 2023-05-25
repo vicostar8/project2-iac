@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/project2-iac/static/css/main.6e2d6fe3.css",
+    "main.js": "/project2-iac/static/js/main.667a011f.js",
+    "static/js/787.c2cbc646.chunk.js": "/project2-iac/static/js/787.c2cbc646.chunk.js",
+    "static/media/word1.png": "/project2-iac/static/media/word1.68b9b984ef636c87faac.png",
+    "index.html": "/project2-iac/index.html",
+    "main.6e2d6fe3.css.map": "/project2-iac/static/css/main.6e2d6fe3.css.map",
+    "main.667a011f.js.map": "/project2-iac/static/js/main.667a011f.js.map",
+    "787.c2cbc646.chunk.js.map": "/project2-iac/static/js/787.c2cbc646.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6e2d6fe3.css",
+    "static/js/main.667a011f.js"
+  ]
+}
